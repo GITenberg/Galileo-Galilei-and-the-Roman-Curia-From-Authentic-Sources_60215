@@ -1,0 +1,39 @@
+_repo: Galileo-Galilei-and-the-Roman-Curia-From-Authentic-Sources_60215
+_version: 0.0.1
+alternative_title: Galileo Galilei und die Römische Curie. English
+contributor:
+  translator:
+    agent_name: Sturge, G. (George), Mrs.
+    aliases:
+    - Sturge, Jane
+    - Sturge, Mrs. G.
+    - Sturge, Mrs. George
+    gutenberg_agent_id: '50852'
+    url: http://www.gutenberg.org/2009/agents/50852
+creator:
+  author:
+    agent_name: Gebler, Karl von
+    birthdate: 1850
+    deathdate: 1878
+    gutenberg_agent_id: '50851'
+    url: http://www.gutenberg.org/2009/agents/50851
+    wikipedia: https://de.wikipedia.org/wiki/Karl_von_Gebler
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60215'
+  lccn: '43050041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Galilei, Galileo, 1564-1642'
+- !lcsh 'Religion and science -- History'
+- !lcsh 'Astronomers -- Italy -- Biography'
+- !lcsh 'Catholic Church. Curia romana'
+- !lcc 'QB'
+- GITenberg
+title: "Galileo Galilei and the Roman Curia\r\nFrom Authentic Sources"
+url: http://www.gutenberg.org/ebooks/60215

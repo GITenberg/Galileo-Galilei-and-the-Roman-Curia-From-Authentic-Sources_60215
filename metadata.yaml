@@ -1,5 +1,5 @@
 _repo: Galileo-Galilei-and-the-Roman-Curia-From-Authentic-Sources_60215
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Galileo Galilei und die Römische Curie. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     - Sturge, Mrs. George
     gutenberg_agent_id: '50852'
     url: http://www.gutenberg.org/2009/agents/50852
+covers:
+- cover_type: archival
+  image_path: 60215-h/images/cover.jpg
 creator:
   author:
     agent_name: Gebler, Karl von
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50851
     wikipedia: https://de.wikipedia.org/wiki/Karl_von_Gebler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60215#Galileo-Galilei-and-the-Roman-Curia-From-Authentic-Sources
 gutenberg_issued: '2019-09-01'
 gutenberg_type: Text
 identifiers:
